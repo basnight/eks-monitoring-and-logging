@@ -22,12 +22,12 @@ spec:
   receivers:
   - name: 'send-email'
     emailConfigs:
-    - to: 'ankitjodhani1903@gmail.com'
-      from: 'ankitjodhani1903@gmail.com'
+    - to: 'douglasbasnight@gmail.com'
+      from: 'douglasbasnight@gmail.com'
       sendResolved: false
       smarthost: smtp.gmail.com:587
-      authUsername: 'ankitjodhani1903@gmail.com'
-      authIdentity: 'ankitjodhani1903@gmail.com'
+      authUsername: 'douglasbasnight@gmail.com'
+      authIdentity: 'douglasbasnight@gmail.com'
       authPassword:
         name: mail-pass
         key: gmail-pass
