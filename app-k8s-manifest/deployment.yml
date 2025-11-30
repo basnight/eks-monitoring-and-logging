@@ -15,7 +15,7 @@ spec:
         app: prometheus-deployment
     spec:
       containers:
-      - image: ankitjodhani/prometheus:learning
+      - image: basnight/prometheus:learning
         name: prometheus
         imagePullPolicy: Always
         ports:
