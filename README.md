@@ -29,7 +29,7 @@ This guide provides a detailed approach to setting up a complete monitoring and 
 If you have any questions or feedback, feel free to reach out:
 
 - **LinkedIn:** [Ankit Jodhani](https://www.linkedin.com/in/ankit-jodhani/)
-- **GitHub:** [AnkitJodhani](https://github.com/AnkitJodhani)
+- **GitHub:** [Douglas Basnight](https://github.com/basnight)
 
 ---
 
