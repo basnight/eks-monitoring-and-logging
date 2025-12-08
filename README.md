@@ -18,7 +18,7 @@ The architecture involves Prometheus for scraping metrics, storing them in AWS E
 ## 🚀 Setup Instructions
 Please go through my blog to get more detailed setup by step by instuction
 
-- **Blog:** [🔗 Links](https://blog.ankitjodhani.com/ultimate-guide-monitoring-logging-aws-eks-prometheus-grafana-loki-promtail/)
+- **Blog:** [🔗 Links](https://medium/)
 
 ## 🙌 Conclusion
 
