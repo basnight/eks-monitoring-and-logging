@@ -12,7 +12,7 @@ The objective is to implement a robust monitoring and logging solution for appli
 ## 🎯 Architecture
 The architecture involves Prometheus for scraping metrics, storing them in AWS EBS volumes, and alerting through Alertmanager. Promtail collects logs, sending them to Loki, which aggregates and stores logs in AWS S3. Grafana visualizes both metrics and logs.
 
-![Architecture of the application](architecture.png)
+![Architecture of the application](Architecture.png)
 
 
 ## 🚀 Setup Instructions
